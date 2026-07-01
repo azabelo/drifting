@@ -1,5 +1,10 @@
 runs/
+outputs/
 data/
 wandb/
+work/
+*.pt
+*.pth
+*.ckpt
 __pycache__/
 *.pyc
